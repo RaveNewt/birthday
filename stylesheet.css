@@ -1076,10 +1076,10 @@ o @keyframes bannar_come {
     bottom: -200px;
     opacity: 0.6;
     z-index: 99;
-    width: 80px;
-    height: 150px;
+    width: 100px;
+    height: 180px;
     background-repeat: no-repeat no-repeat;
-    background-size: 80px 150px;
+    background-size: 100px 180px;
 }
 
 .balloons h2 {
