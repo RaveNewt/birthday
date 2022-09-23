@@ -211,7 +211,7 @@ $("document").ready(function () {
         $("#b55").animate({ top: 180, left: vw + 100 }, 500);
         $("#photo").animate({ top: 180, left: vw + 150 }, 1000);
         $("#b66").animate({ top: 600, left: vw + 120 }, 1000);
-        $("#b77").animate({ top: 750, left: vw - 80 }, 1000);
+        $("#b77").animate({ top: 700, left: vw - 80 }, 1000);
         $(".balloons").css("opacity", "0.9");
         $(".balloons h2").fadeIn(3000);
         $(this)
